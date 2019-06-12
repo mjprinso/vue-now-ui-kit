@@ -42,17 +42,6 @@ You can find the Github Repo here.
 * [Useful Links](#useful-links)
 
 
-## Versions
-
-[<img src="src/assets/github/html.png" width="60" height="60" />](https://www.creative-tim.com/product/now-ui-kit)
-[<img src="src/assets/github/vuejs.png" width="60" height="60" />](https://www.creative-tim.com/product/vue-now-ui-kit)
-[<img src="src/assets/github/angular.png" width="60" height="60" />](https://www.creative-tim.com/product/now-ui-kit-angular)
-
-
-| HTML | Vue | Angular |
-| --- | --- | --- |
-| [![Now Ui Kit HTML](https://s3.amazonaws.com/creativetim_bucket/products/56/original/opt_nuk_thumbnail.jpg?1494946669)](https://www.creative-tim.com/product/now-ui-kit) | [![Vue Now UI Kit ](https://s3.amazonaws.com/creativetim_bucket/products/94/original/opt_nuk_vue_thumbnail.jpg?1534755580)](https://www.creative-tim.com/product/vue-now-ui-kit) | [![Now Ui Kit Angular](https://s3.amazonaws.com/creativetim_bucket/products/77/original/opt_nuk_angular_thumbnail.jpg?1520507715)](https://www.creative-tim.com/product/now-ui-kit-angular)
-
 ## Demo
 
 | Components | Landing | Profile | Login |
